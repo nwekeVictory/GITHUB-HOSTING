@@ -30,3 +30,9 @@ ul {
   font-weight: 400;
   line-height: 1;
 }
+
+.source-link {
+  text-align: center;
+  color: #1c45af;
+  font-size: 11px;
+}
